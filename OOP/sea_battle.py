@@ -320,6 +320,4 @@ def main():
 
 
 if __name__ == "__main__":
-    d = Dot(3,4)
-    print(type(d.get_point[0]))
-    #main()
+    main()
